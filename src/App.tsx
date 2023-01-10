@@ -1,7 +1,5 @@
-import "./App.css";
-
 function App() {
-  return <div className="App">henlo friend</div>;
+  return <div className="text-lg text-red-600 font-bold">henlo friend</div>;
 }
 
 export default App;
